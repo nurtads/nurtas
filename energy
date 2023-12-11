@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Law of Conservation of Energy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1, p {
+            text-align: center;
+        }
+
+        #energyImage {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Law of Conservation of Energy</h1>
+
+    <img id="energyImage" src="energy.png" alt="Energy">
+
+    <p>
+        The law of conservation of energy states that the total energy of an isolated system remains constant over time.
+        Energy cannot be created or destroyed, only transferred or converted from one form to another.
+    </p>
+
+    <p>
+        This fundamental principle governs various physical processes, emphasizing the interconnectedness
+        and conservation of different forms of energy, such as kinetic, potential, thermal, and others.
+    </p>
+
+    <p>
+        Understanding and applying the law of conservation of energy is crucial in physics and engineering,
+        providing insights into the behavior of natural systems and guiding the development of technologies.
+    </p>
+</body>
+</html>
